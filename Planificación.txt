@@ -1,10 +1,8 @@
-
-
 Gestor de inventario para Kovac Store 
 	Agregar items al inventario
 		Agregar uno por uno
 		Agregar varios a la vez
-		Marcar ítems como vendidos, reservados, disponibles
+		Marcar Ã­tems como vendidos, reservados, disponibles
 		
 	Modificar el estatus de los items
 		Marcar como disponible(s), reservado(s) o fuera de stock
